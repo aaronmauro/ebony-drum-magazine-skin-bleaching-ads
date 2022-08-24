@@ -1,6 +1,6 @@
 # Drum and Ebony Skin Bleaching Ads
 
-This is a data analysis of skin bleaching ads from Ebony and Drum magazines over several decades. The data was collected by hand and captures several aspects of the ads, including the product, the active ingredient, the claims made, as well as the catch phrases used.
+This is a data analysis of skin bleaching ads from Ebony and Drum magazines over several decades. The data was collected by hand and captures several aspects of the ads, including the product, the active ingredient, the claims made, as well as the catch phrases used. This work was completed in support of Dr. Nina Jablonski at Penn State, University Park.
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@ This is a data analysis of skin bleaching ads from Ebony and Drum magazines over
 
 ```python
 __author__ = "Aaron Mauro"
+__collaborator__ = "Nina Jablonski"
 __role__ = "researcher"
 __institution__ = "Brock University"
 __email__ = "amauro@brocku.ca"
